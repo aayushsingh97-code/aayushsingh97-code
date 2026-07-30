@@ -1,7 +1,7 @@
 ## Hi there this is Aayush 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/art.svg" width="500">
+  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/art.svg" width="500">
 </div>
 
 <!--
