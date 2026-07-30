@@ -1,7 +1,23 @@
 ## こんにちは、アユシュです。Hi, this is Aayush 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aayushsingh97-code/aayushsingh97-code/main/matrix.svg" width="760">
+
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/matrix_scene.svg" width="780">
+
+<br><br>
+
+### 🎨 Gallery
+
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/monet.svg" width="600">
+
+*après Monet — an animated pond*
+
+<br>
+
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/picasso_cat.svg" width="420">
+
+*après Picatso — a confused cat*
+
 </div>
 <!--
 **aayushsingh97-code/aayushsingh97-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
