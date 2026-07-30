@@ -11,11 +11,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/aayushsingh97-code/aayushsingh97-code/main/claude_monet.jpg" width="400">
+      <img src="https://raw.githubusercontent.com/aayushsingh97-code/aayushsingh97-code/main/claude_monet.jpg" width="200">
       <em> A bright sunny day </em>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/aayushsingh97-code/aayushsingh97-code/main/picasso_cat.jpg" width="420">
+      <img src="https://raw.githubusercontent.com/aayushsingh97-code/aayushsingh97-code/main/picasso_cat.jpg" width="200">
       <em> Picatso </em>
   </tr>
 </table>
