@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" font-family="Georgia, serif">
+<rect width="640" height="560" fill="#0f1b3d"/>
+<path d="M0,0 L280,0 L180,220 L0,180 Z" fill="#ff3b30" opacity="0.92" stroke="#0f1b3d" stroke-width="2.5"/>
+<path d="M280,0 L640,0 L640,200 L360,240 L180,220 Z" fill="#ffcc00" opacity="0.92" stroke="#0f1b3d" stroke-width="2.5"/>
+<path d="M0,180 L180,220 L200,420 L0,400 Z" fill="#00b894" opacity="0.92" stroke="#0f1b3d" stroke-width="2.5"/>
+<path d="M640,200 L640,560 L420,560 L470,300 L360,240 Z" fill="#a855f7" opacity="0.92" stroke="#0f1b3d" stroke-width="2.5"/>
+<path d="M0,400 L200,420 L260,560 L0,560 Z" fill="#ff6b00" opacity="0.92" stroke="#0f1b3d" stroke-width="2.5"/>
+<path d="M200,420 L470,300 L420,560 L260,560 Z" fill="#0984e3" opacity="0.92" stroke="#0f1b3d" stroke-width="2.5"/>
+<g stroke="#0f1b3d" stroke-width="3.5" stroke-linejoin="round">
+<path d="M200,150 L330,130 L330,360 L210,340 Z" fill="#00bfff"/>
+<path d="M330,160 L470,180 L450,400 L330,380 Z" fill="#ff2d78"/>
+<path d="M240,150 L330,90 L420,170 L330,160 Z" fill="#aaff00"/>
+<path d="M200,150 L180,60 L270,120 Z" fill="#ff3b30"/>
+<path d="M200,150 L180,60 L230,95 Z" fill="#ffcc00"/>
+<path d="M420,170 L500,70 L470,180 Z" fill="#a855f7"/>
+<path d="M440,150 L490,90 L470,175 Z" fill="#ff6b00"/>
+<circle cx="270" cy="220" r="30" fill="#ffffff"/>
+<circle cx="277" cy="222" r="13" fill="#ff2d78"/>
+<circle cx="277" cy="222" r="5" fill="#0f1b3d"/>
+<ellipse cx="400" cy="280" rx="34" ry="26" fill="#ffffff"/>
+<circle cx="405" cy="282" r="14" fill="#00b894"/>
+<ellipse cx="405" cy="282" rx="4" ry="11" fill="#0f1b3d"/>
+<circle cx="345" cy="185" r="12" fill="#ffcc00"/>
+<circle cx="347" cy="186" r="5" fill="#0f1b3d"/>
+<path d="M330,300 L358,300 L344,326 Z" fill="#ff3b30"/>
+<path d="M344,326 L344,352 M344,352 Q315,372 300,350 M344,352 Q378,372 395,346" fill="none" stroke="#0f1b3d" stroke-width="3.5"/>
+<path d="M250,300 L150,285 M250,318 L150,330 M255,335 L160,368" stroke="#0f1b3d" stroke-width="3" fill="none"/>
+<path d="M420,300 L520,290 M418,320 L525,335" stroke="#0f1b3d" stroke-width="3" fill="none"/>
+<path d="M240,360 L460,380 L500,520 L220,520 Z" fill="#ff6b00"/>
+<path d="M240,360 L350,380 L340,520 L220,520 Z" fill="#0984e3" opacity="0.95"/>
+<path d="M300,520 L300,470 L340,470 L340,520 Z" fill="#aaff00"/>
+<path d="M300,478 L340,478 M310,478 L310,520 M325,478 L325,520" stroke="#0f1b3d" stroke-width="2.5" fill="none"/>
+<path d="M460,400 Q560,360 540,470 Q530,540 470,500" fill="none" stroke="#0f1b3d" stroke-width="17" stroke-linecap="round"/>
+<path d="M460,400 Q560,360 540,470 Q530,540 470,500" fill="none" stroke="#a855f7" stroke-width="9" stroke-linecap="round"/>
+</g>
+<text x="430" y="545" font-style="italic" font-size="20" fill="#ffffff" opacity="0.9">après Picatso</text>
+</svg>
