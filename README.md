@@ -10,13 +10,17 @@
 
 <img src="https://raw.githubusercontent.com/aayushsingh97-code/aayushsingh97-code/main/claude_monet.jpg" width="600">
 
-*après Monet — an animated pond*
-
-<br>
-
-<img src="https://raw.githubusercontent.com/aayushsingh97-code/aayushsingh97-code/main/picasso_cat.svg" width="420">
-
-*après Picatso — a confused cat*
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/aaaayushsingh97-code/aayushsingh97-code/main/claude_monet.jpg" width="400">
+      <em> A bright sunny day </em>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/aayushsingh97-code/aayushsingh97-code/main/picasso_cat.jpg" width="420">
+      <em> Picatso </em>
+  </tr>
+</table>
 
 </div>
 <!--
