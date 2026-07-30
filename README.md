@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aayushsingh97-code/aayushsingh97-code/main/matrix_scene.svg" width="780">
+<img src="https://raw.githubusercontent.com/aayushsingh97-code/aayushsingh97-code/main/matrix.svg" width="780">
 
 <br><br>
 
