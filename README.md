@@ -8,8 +8,6 @@
 
 ### 🎨 Gallery
 
-<img src="https://raw.githubusercontent.com/aayushsingh97-code/aayushsingh97-code/main/claude_monet.jpg" width="600">
-
 <table>
   <tr>
     <td align="center">
