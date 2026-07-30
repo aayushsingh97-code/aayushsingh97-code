@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" font-family="monospace" font-size="16">
-<rect width="760" height="460" fill="#000000"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 430" font-family="monospace" font-size="16">
+<rect width="780" height="430" fill="#000000"/>
 <defs><filter id="glow"><feGaussianBlur stdDeviation="1.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="tglow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="10,-198; 10,460" dur="8.8s" begin="-3.2s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="10,-198; 10,430" dur="8.8s" begin="-3.2s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">エ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.46s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005f20" opacity="0.26">B<animate attributeName="opacity" values="0.26;0.11;0.26" dur="0.48s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006f20" opacity="0.33">E<animate attributeName="opacity" values="0.33;0.13;0.33" dur="0.45s" repeatCount="indefinite"/></text>
@@ -16,7 +16,7 @@
 <text x="0" y="180" fill="#ccffcc" opacity="0.84">D<animate attributeName="opacity" values="0.84;0.33;0.84" dur="0.87s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="28,-108; 28,460" dur="8.9s" begin="-0.4s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="29,-108; 29,430" dur="8.9s" begin="-0.4s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ケ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.63s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006d20" opacity="0.32">コ<animate attributeName="opacity" values="0.32;0.13;0.32" dur="0.83s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#008a20" opacity="0.43">D<animate attributeName="opacity" values="0.43;0.17;0.43" dur="0.65s" repeatCount="indefinite"/></text>
@@ -25,7 +25,7 @@
 <text x="0" y="90" fill="#ccffcc" opacity="0.78">ｧ<animate attributeName="opacity" values="0.78;0.31;0.78" dur="0.55s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="48,-126; 48,460" dur="7.0s" begin="-0.5s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="48,-126; 48,430" dur="7.0s" begin="-0.5s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">エ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.90s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006920" opacity="0.30">8<animate attributeName="opacity" values="0.30;0.12;0.30" dur="0.94s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#008220" opacity="0.40">4<animate attributeName="opacity" values="0.40;0.16;0.40" dur="1.02s" repeatCount="indefinite"/></text>
@@ -35,7 +35,7 @@
 <text x="0" y="108" fill="#ccffcc" opacity="0.80">ｫ<animate attributeName="opacity" values="0.80;0.32;0.80" dur="1.02s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="66,-126; 66,460" dur="7.1s" begin="-4.2s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="67,-126; 67,430" dur="7.1s" begin="-4.2s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ニ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.98s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006920" opacity="0.30">テ<animate attributeName="opacity" values="0.30;0.12;0.30" dur="0.89s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#008220" opacity="0.40">オ<animate attributeName="opacity" values="0.40;0.16;0.40" dur="0.49s" repeatCount="indefinite"/></text>
@@ -45,7 +45,7 @@
 <text x="0" y="108" fill="#ccffcc" opacity="0.80">ｩ<animate attributeName="opacity" values="0.80;0.32;0.80" dur="0.46s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="86,-252; 86,460" dur="7.1s" begin="-7.0s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="86,-252; 86,430" dur="7.1s" begin="-7.0s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ナ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.67s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005c20" opacity="0.25">ヌ<animate attributeName="opacity" values="0.25;0.10;0.25" dur="0.88s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006920" opacity="0.30">E<animate attributeName="opacity" values="0.30;0.12;0.30" dur="1.04s" repeatCount="indefinite"/></text>
@@ -62,7 +62,7 @@
 <text x="0" y="234" fill="#ccffcc" opacity="0.85">エ<animate attributeName="opacity" values="0.85;0.34;0.85" dur="0.57s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="104,-180; 104,460" dur="5.1s" begin="-2.0s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="105,-180; 105,430" dur="5.1s" begin="-2.0s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">2<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.13s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006120" opacity="0.27">8<animate attributeName="opacity" values="0.27;0.11;0.27" dur="0.46s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#007320" opacity="0.34">5<animate attributeName="opacity" values="0.34;0.14;0.34" dur="0.72s" repeatCount="indefinite"/></text>
@@ -75,7 +75,7 @@
 <text x="0" y="162" fill="#ccffcc" opacity="0.83">シ<animate attributeName="opacity" values="0.83;0.33;0.83" dur="0.52s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="124,-288; 124,460" dur="5.6s" begin="-3.9s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="124,-288; 124,430" dur="5.6s" begin="-3.9s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">E<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.55s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005a20" opacity="0.24">テ<animate attributeName="opacity" values="0.24;0.10;0.24" dur="0.40s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006520" opacity="0.29">3<animate attributeName="opacity" values="0.29;0.11;0.29" dur="0.83s" repeatCount="indefinite"/></text>
@@ -94,7 +94,7 @@
 <text x="0" y="270" fill="#ccffcc" opacity="0.86">ク<animate attributeName="opacity" values="0.86;0.34;0.86" dur="0.67s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="142,-108; 142,460" dur="5.0s" begin="-4.5s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="143,-108; 143,430" dur="5.0s" begin="-4.5s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">B<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.48s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006d20" opacity="0.32">0<animate attributeName="opacity" values="0.32;0.13;0.32" dur="0.89s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#008a20" opacity="0.43">オ<animate attributeName="opacity" values="0.43;0.17;0.43" dur="1.10s" repeatCount="indefinite"/></text>
@@ -103,7 +103,7 @@
 <text x="0" y="90" fill="#ccffcc" opacity="0.78">ヌ<animate attributeName="opacity" values="0.78;0.31;0.78" dur="0.88s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="162,-234; 162,460" dur="5.1s" begin="-6.8s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="162,-234; 162,430" dur="5.1s" begin="-6.8s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">6<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.78s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005d20" opacity="0.25">ト<animate attributeName="opacity" values="0.25;0.10;0.25" dur="0.47s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006a20" opacity="0.31">キ<animate attributeName="opacity" values="0.31;0.12;0.31" dur="1.00s" repeatCount="indefinite"/></text>
@@ -119,7 +119,7 @@
 <text x="0" y="216" fill="#ccffcc" opacity="0.85">サ<animate attributeName="opacity" values="0.85;0.34;0.85" dur="0.68s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="180,-162; 180,460" dur="6.9s" begin="-6.2s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="181,-162; 181,430" dur="6.9s" begin="-6.2s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ニ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.91s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006320" opacity="0.28">ｦ<animate attributeName="opacity" values="0.28;0.11;0.28" dur="1.05s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#007620" opacity="0.36">ｯ<animate attributeName="opacity" values="0.36;0.14;0.36" dur="1.08s" repeatCount="indefinite"/></text>
@@ -131,7 +131,7 @@
 <text x="0" y="144" fill="#ccffcc" opacity="0.82">$<animate attributeName="opacity" values="0.82;0.33;0.82" dur="0.62s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="200,-180; 200,460" dur="5.4s" begin="-4.8s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="200,-180; 200,430" dur="5.4s" begin="-4.8s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ヌ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.76s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006120" opacity="0.27">ｭ<animate attributeName="opacity" values="0.27;0.11;0.27" dur="1.19s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#007320" opacity="0.34">0<animate attributeName="opacity" values="0.34;0.14;0.34" dur="0.46s" repeatCount="indefinite"/></text>
@@ -144,7 +144,7 @@
 <text x="0" y="162" fill="#ccffcc" opacity="0.83">カ<animate attributeName="opacity" values="0.83;0.33;0.83" dur="1.07s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="218,-126; 218,460" dur="8.6s" begin="-6.3s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="219,-126; 219,430" dur="8.6s" begin="-6.3s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ｯ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.56s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006920" opacity="0.30">シ<animate attributeName="opacity" values="0.30;0.12;0.30" dur="0.75s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#008220" opacity="0.40">ｧ<animate attributeName="opacity" values="0.40;0.16;0.40" dur="0.67s" repeatCount="indefinite"/></text>
@@ -154,7 +154,7 @@
 <text x="0" y="108" fill="#ccffcc" opacity="0.80">カ<animate attributeName="opacity" values="0.80;0.32;0.80" dur="0.98s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="238,-144; 238,460" dur="9.0s" begin="-0.2s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="238,-144; 238,430" dur="9.0s" begin="-0.2s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">E<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.12s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006520" opacity="0.29">%<animate attributeName="opacity" values="0.29;0.11;0.29" dur="0.92s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#007b20" opacity="0.38">ｦ<animate attributeName="opacity" values="0.38;0.15;0.38" dur="1.06s" repeatCount="indefinite"/></text>
@@ -165,7 +165,7 @@
 <text x="0" y="126" fill="#ccffcc" opacity="0.81">ｭ<animate attributeName="opacity" values="0.81;0.33;0.81" dur="0.92s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="256,-252; 256,460" dur="7.9s" begin="-1.1s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="257,-252; 257,430" dur="7.9s" begin="-1.1s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ス<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.06s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005c20" opacity="0.25">セ<animate attributeName="opacity" values="0.25;0.10;0.25" dur="0.42s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006920" opacity="0.30">セ<animate attributeName="opacity" values="0.30;0.12;0.30" dur="0.63s" repeatCount="indefinite"/></text>
@@ -182,7 +182,7 @@
 <text x="0" y="234" fill="#ccffcc" opacity="0.85">ｰ<animate attributeName="opacity" values="0.85;0.34;0.85" dur="0.55s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="276,-108; 276,460" dur="8.0s" begin="-1.2s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="276,-108; 276,430" dur="8.0s" begin="-1.2s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">コ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.78s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006d20" opacity="0.32">ｭ<animate attributeName="opacity" values="0.32;0.13;0.32" dur="0.50s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#008a20" opacity="0.43">エ<animate attributeName="opacity" values="0.43;0.17;0.43" dur="0.66s" repeatCount="indefinite"/></text>
@@ -191,7 +191,7 @@
 <text x="0" y="90" fill="#ccffcc" opacity="0.78">キ<animate attributeName="opacity" values="0.78;0.31;0.78" dur="1.11s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="294,-108; 294,460" dur="5.6s" begin="-2.2s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="295,-108; 295,430" dur="5.6s" begin="-2.2s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ｰ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.48s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006d20" opacity="0.32">5<animate attributeName="opacity" values="0.32;0.13;0.32" dur="0.85s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#008a20" opacity="0.43">ｯ<animate attributeName="opacity" values="0.43;0.17;0.43" dur="1.12s" repeatCount="indefinite"/></text>
@@ -200,7 +200,7 @@
 <text x="0" y="90" fill="#ccffcc" opacity="0.78">F<animate attributeName="opacity" values="0.78;0.31;0.78" dur="0.81s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="314,-180; 314,460" dur="6.5s" begin="-4.3s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="314,-180; 314,430" dur="6.5s" begin="-4.3s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">7<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.81s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006120" opacity="0.27">タ<animate attributeName="opacity" values="0.27;0.11;0.27" dur="0.96s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#007320" opacity="0.34">チ<animate attributeName="opacity" values="0.34;0.14;0.34" dur="1.14s" repeatCount="indefinite"/></text>
@@ -213,7 +213,7 @@
 <text x="0" y="162" fill="#ccffcc" opacity="0.83">ク<animate attributeName="opacity" values="0.83;0.33;0.83" dur="1.12s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="332,-144; 332,460" dur="8.7s" begin="-5.1s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="333,-144; 333,430" dur="8.7s" begin="-5.1s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">0<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.51s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006520" opacity="0.29">ケ<animate attributeName="opacity" values="0.29;0.11;0.29" dur="1.17s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#007b20" opacity="0.38">ソ<animate attributeName="opacity" values="0.38;0.15;0.38" dur="1.00s" repeatCount="indefinite"/></text>
@@ -224,7 +224,7 @@
 <text x="0" y="126" fill="#ccffcc" opacity="0.81">9<animate attributeName="opacity" values="0.81;0.33;0.81" dur="0.72s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="352,-216; 352,460" dur="5.4s" begin="-2.5s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="352,-216; 352,430" dur="5.4s" begin="-2.5s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ｭ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.69s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005e20" opacity="0.26">ニ<animate attributeName="opacity" values="0.26;0.10;0.26" dur="0.84s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006d20" opacity="0.32">5<animate attributeName="opacity" values="0.32;0.13;0.32" dur="0.96s" repeatCount="indefinite"/></text>
@@ -239,7 +239,7 @@
 <text x="0" y="198" fill="#ccffcc" opacity="0.84">4<animate attributeName="opacity" values="0.84;0.34;0.84" dur="1.08s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="370,-288; 370,460" dur="8.2s" begin="-2.1s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="371,-288; 371,430" dur="8.2s" begin="-2.1s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">コ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.83s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005a20" opacity="0.24">9<animate attributeName="opacity" values="0.24;0.10;0.24" dur="0.86s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006520" opacity="0.29">ｫ<animate attributeName="opacity" values="0.29;0.11;0.29" dur="0.66s" repeatCount="indefinite"/></text>
@@ -258,7 +258,7 @@
 <text x="0" y="270" fill="#ccffcc" opacity="0.86">タ<animate attributeName="opacity" values="0.86;0.34;0.86" dur="1.15s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="390,-144; 390,460" dur="5.7s" begin="-1.4s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="390,-144; 390,430" dur="5.7s" begin="-1.4s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ト<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.90s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006520" opacity="0.29">A<animate attributeName="opacity" values="0.29;0.11;0.29" dur="1.01s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#007b20" opacity="0.38">テ<animate attributeName="opacity" values="0.38;0.15;0.38" dur="0.76s" repeatCount="indefinite"/></text>
@@ -269,7 +269,7 @@
 <text x="0" y="126" fill="#ccffcc" opacity="0.81">C<animate attributeName="opacity" values="0.81;0.33;0.81" dur="1.18s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="408,-252; 408,460" dur="6.6s" begin="-7.5s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="409,-252; 409,430" dur="6.6s" begin="-7.5s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">キ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.93s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005c20" opacity="0.25">ｨ<animate attributeName="opacity" values="0.25;0.10;0.25" dur="0.75s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006920" opacity="0.30">8<animate attributeName="opacity" values="0.30;0.12;0.30" dur="0.84s" repeatCount="indefinite"/></text>
@@ -286,7 +286,7 @@
 <text x="0" y="234" fill="#ccffcc" opacity="0.85">カ<animate attributeName="opacity" values="0.85;0.34;0.85" dur="0.93s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="428,-216; 428,460" dur="8.4s" begin="-5.4s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="428,-216; 428,430" dur="8.4s" begin="-5.4s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">テ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.88s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005e20" opacity="0.26">ｫ<animate attributeName="opacity" values="0.26;0.10;0.26" dur="0.63s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006d20" opacity="0.32">6<animate attributeName="opacity" values="0.32;0.13;0.32" dur="0.55s" repeatCount="indefinite"/></text>
@@ -301,7 +301,7 @@
 <text x="0" y="198" fill="#ccffcc" opacity="0.84">ツ<animate attributeName="opacity" values="0.84;0.34;0.84" dur="0.80s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="446,-162; 446,460" dur="5.6s" begin="-6.2s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="447,-162; 447,430" dur="5.6s" begin="-6.2s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">カ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.61s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006320" opacity="0.28">カ<animate attributeName="opacity" values="0.28;0.11;0.28" dur="0.52s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#007620" opacity="0.36">E<animate attributeName="opacity" values="0.36;0.14;0.36" dur="0.43s" repeatCount="indefinite"/></text>
@@ -313,7 +313,7 @@
 <text x="0" y="144" fill="#ccffcc" opacity="0.82">F<animate attributeName="opacity" values="0.82;0.33;0.82" dur="0.71s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="466,-198; 466,460" dur="7.7s" begin="-4.0s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="466,-198; 466,430" dur="7.7s" begin="-4.0s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">テ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.98s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005f20" opacity="0.26">ｨ<animate attributeName="opacity" values="0.26;0.11;0.26" dur="0.52s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006f20" opacity="0.33">@<animate attributeName="opacity" values="0.33;0.13;0.33" dur="1.07s" repeatCount="indefinite"/></text>
@@ -327,7 +327,7 @@
 <text x="0" y="180" fill="#ccffcc" opacity="0.84">ｬ<animate attributeName="opacity" values="0.84;0.33;0.84" dur="0.95s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="484,-288; 484,460" dur="5.5s" begin="-0.2s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="485,-288; 485,430" dur="5.5s" begin="-0.2s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ケ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.91s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005a20" opacity="0.24">キ<animate attributeName="opacity" values="0.24;0.10;0.24" dur="0.70s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006520" opacity="0.29">5<animate attributeName="opacity" values="0.29;0.11;0.29" dur="0.85s" repeatCount="indefinite"/></text>
@@ -346,7 +346,7 @@
 <text x="0" y="270" fill="#ccffcc" opacity="0.86">6<animate attributeName="opacity" values="0.86;0.34;0.86" dur="0.80s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="504,-216; 504,460" dur="4.8s" begin="-7.3s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="504,-216; 504,430" dur="4.8s" begin="-7.3s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">テ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.01s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005e20" opacity="0.26">ｦ<animate attributeName="opacity" values="0.26;0.10;0.26" dur="0.91s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006d20" opacity="0.32">ス<animate attributeName="opacity" values="0.32;0.13;0.32" dur="0.46s" repeatCount="indefinite"/></text>
@@ -361,7 +361,7 @@
 <text x="0" y="198" fill="#ccffcc" opacity="0.84">テ<animate attributeName="opacity" values="0.84;0.34;0.84" dur="0.77s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="522,-234; 522,460" dur="8.0s" begin="-7.9s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="523,-234; 523,430" dur="8.0s" begin="-7.9s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">C<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.56s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005d20" opacity="0.25">カ<animate attributeName="opacity" values="0.25;0.10;0.25" dur="1.15s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006a20" opacity="0.31">イ<animate attributeName="opacity" values="0.31;0.12;0.31" dur="0.63s" repeatCount="indefinite"/></text>
@@ -377,7 +377,7 @@
 <text x="0" y="216" fill="#ccffcc" opacity="0.85">ｬ<animate attributeName="opacity" values="0.85;0.34;0.85" dur="0.69s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="542,-234; 542,460" dur="8.5s" begin="-3.9s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="542,-234; 542,430" dur="8.5s" begin="-3.9s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">イ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.53s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005d20" opacity="0.25">8<animate attributeName="opacity" values="0.25;0.10;0.25" dur="0.95s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006a20" opacity="0.31">2<animate attributeName="opacity" values="0.31;0.12;0.31" dur="0.64s" repeatCount="indefinite"/></text>
@@ -393,7 +393,7 @@
 <text x="0" y="216" fill="#ccffcc" opacity="0.85">E<animate attributeName="opacity" values="0.85;0.34;0.85" dur="0.46s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="560,-216; 560,460" dur="7.9s" begin="-6.8s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="561,-216; 561,430" dur="7.9s" begin="-6.8s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ツ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.48s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005e20" opacity="0.26">*<animate attributeName="opacity" values="0.26;0.10;0.26" dur="0.93s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006d20" opacity="0.32">ｧ<animate attributeName="opacity" values="0.32;0.13;0.32" dur="1.15s" repeatCount="indefinite"/></text>
@@ -408,7 +408,7 @@
 <text x="0" y="198" fill="#ccffcc" opacity="0.84">ｭ<animate attributeName="opacity" values="0.84;0.34;0.84" dur="0.73s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="580,-270; 580,460" dur="7.9s" begin="-5.2s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="580,-270; 580,430" dur="7.9s" begin="-5.2s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">テ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.79s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005b20" opacity="0.25">C<animate attributeName="opacity" values="0.25;0.10;0.25" dur="0.50s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006720" opacity="0.29">7<animate attributeName="opacity" values="0.29;0.12;0.29" dur="0.73s" repeatCount="indefinite"/></text>
@@ -426,7 +426,7 @@
 <text x="0" y="252" fill="#ccffcc" opacity="0.85">5<animate attributeName="opacity" values="0.85;0.34;0.85" dur="0.74s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="598,-252; 598,460" dur="5.4s" begin="-0.7s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="599,-252; 599,430" dur="5.4s" begin="-0.7s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ニ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.84s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005c20" opacity="0.25">ナ<animate attributeName="opacity" values="0.25;0.10;0.25" dur="0.59s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006920" opacity="0.30">チ<animate attributeName="opacity" values="0.30;0.12;0.30" dur="1.05s" repeatCount="indefinite"/></text>
@@ -443,7 +443,7 @@
 <text x="0" y="234" fill="#ccffcc" opacity="0.85">タ<animate attributeName="opacity" values="0.85;0.34;0.85" dur="0.71s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="618,-288; 618,460" dur="6.5s" begin="-7.6s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="618,-288; 618,430" dur="6.5s" begin="-7.6s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">@<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.10s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005a20" opacity="0.24">イ<animate attributeName="opacity" values="0.24;0.10;0.24" dur="0.50s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006520" opacity="0.29">4<animate attributeName="opacity" values="0.29;0.11;0.29" dur="0.97s" repeatCount="indefinite"/></text>
@@ -462,7 +462,7 @@
 <text x="0" y="270" fill="#ccffcc" opacity="0.86">ウ<animate attributeName="opacity" values="0.86;0.34;0.86" dur="0.40s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="636,-144; 636,460" dur="5.5s" begin="-7.4s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="637,-144; 637,430" dur="5.5s" begin="-7.4s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ｨ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.97s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006520" opacity="0.29">ケ<animate attributeName="opacity" values="0.29;0.11;0.29" dur="0.90s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#007b20" opacity="0.38">A<animate attributeName="opacity" values="0.38;0.15;0.38" dur="0.91s" repeatCount="indefinite"/></text>
@@ -473,7 +473,7 @@
 <text x="0" y="126" fill="#ccffcc" opacity="0.81">ソ<animate attributeName="opacity" values="0.81;0.33;0.81" dur="1.03s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="656,-108; 656,460" dur="4.5s" begin="-2.4s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="656,-108; 656,430" dur="4.5s" begin="-2.4s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">6<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.62s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006d20" opacity="0.32">ナ<animate attributeName="opacity" values="0.32;0.13;0.32" dur="0.92s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#008a20" opacity="0.43">タ<animate attributeName="opacity" values="0.43;0.17;0.43" dur="0.78s" repeatCount="indefinite"/></text>
@@ -482,7 +482,7 @@
 <text x="0" y="90" fill="#ccffcc" opacity="0.78">ｬ<animate attributeName="opacity" values="0.78;0.31;0.78" dur="0.92s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="674,-108; 674,460" dur="4.6s" begin="-4.0s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="675,-108; 675,430" dur="4.6s" begin="-4.0s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ｪ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.92s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006d20" opacity="0.32">カ<animate attributeName="opacity" values="0.32;0.13;0.32" dur="0.61s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#008a20" opacity="0.43">ｩ<animate attributeName="opacity" values="0.43;0.17;0.43" dur="0.74s" repeatCount="indefinite"/></text>
@@ -491,7 +491,7 @@
 <text x="0" y="90" fill="#ccffcc" opacity="0.78">ｬ<animate attributeName="opacity" values="0.78;0.31;0.78" dur="0.74s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="694,-288; 694,460" dur="6.3s" begin="-0.1s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="694,-288; 694,430" dur="6.3s" begin="-0.1s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">テ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.99s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005a20" opacity="0.24">9<animate attributeName="opacity" values="0.24;0.10;0.24" dur="0.45s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006520" opacity="0.29">8<animate attributeName="opacity" values="0.29;0.11;0.29" dur="1.18s" repeatCount="indefinite"/></text>
@@ -510,7 +510,7 @@
 <text x="0" y="270" fill="#ccffcc" opacity="0.86">ｬ<animate attributeName="opacity" values="0.86;0.34;0.86" dur="0.45s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="712,-216; 712,460" dur="6.5s" begin="-5.7s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="713,-216; 713,430" dur="6.5s" begin="-5.7s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ナ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.99s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#005e20" opacity="0.26">カ<animate attributeName="opacity" values="0.26;0.10;0.26" dur="1.15s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#006d20" opacity="0.32">ニ<animate attributeName="opacity" values="0.32;0.13;0.32" dur="0.55s" repeatCount="indefinite"/></text>
@@ -525,7 +525,7 @@
 <text x="0" y="198" fill="#ccffcc" opacity="0.84">ク<animate attributeName="opacity" values="0.84;0.34;0.84" dur="0.85s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="732,-162; 732,460" dur="6.2s" begin="-6.1s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="732,-162; 732,430" dur="6.2s" begin="-6.1s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">ト<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.06s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006320" opacity="0.28">4<animate attributeName="opacity" values="0.28;0.11;0.28" dur="0.47s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#007620" opacity="0.36">ｬ<animate attributeName="opacity" values="0.36;0.14;0.36" dur="0.78s" repeatCount="indefinite"/></text>
@@ -537,7 +537,7 @@
 <text x="0" y="144" fill="#ccffcc" opacity="0.82">ｧ<animate attributeName="opacity" values="0.82;0.33;0.82" dur="1.01s" repeatCount="indefinite"/></text>
 </g>
 <g filter="url(#glow)">
-<animateTransform attributeName="transform" type="translate" values="750,-108; 750,460" dur="6.2s" begin="-3.7s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="751,-108; 751,430" dur="6.2s" begin="-3.7s" repeatCount="indefinite"/>
 <text x="0" y="0" fill="#005020" opacity="0.20">%<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.14s" repeatCount="indefinite"/></text>
 <text x="0" y="18" fill="#006d20" opacity="0.32">チ<animate attributeName="opacity" values="0.32;0.13;0.32" dur="0.56s" repeatCount="indefinite"/></text>
 <text x="0" y="36" fill="#008a20" opacity="0.43">オ<animate attributeName="opacity" values="0.43;0.17;0.43" dur="1.12s" repeatCount="indefinite"/></text>
@@ -545,26 +545,40 @@
 <text x="0" y="72" fill="#00c420" opacity="0.67">ニ<animate attributeName="opacity" values="0.67;0.27;0.67" dur="1.17s" repeatCount="indefinite"/></text>
 <text x="0" y="90" fill="#ccffcc" opacity="0.78">ｦ<animate attributeName="opacity" values="0.78;0.31;0.78" dur="0.43s" repeatCount="indefinite"/></text>
 </g>
-<rect x="40" y="55" width="680" height="360" fill="#000000" opacity="0.72" rx="8"/>
-<rect x="40" y="55" width="680" height="360" fill="none" stroke="#00ff41" opacity="0.35" rx="8"/>
-<g filter="url(#tglow)" fill="#00ff41" font-size="11" font-weight="bold">
-<text x="66" y="88" xml:space="preserve" opacity="0">__        __   _                            _          _   _          <set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
-<text x="66" y="103" xml:space="preserve" opacity="0">\ \      / /__| | ___ ___  _ __ ___   ___  | |_ ___   | |_| |__   ___ <set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
-<text x="66" y="118" xml:space="preserve" opacity="0"> \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ | __/ _ \  | __| '_ \ / _ \<set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
-<text x="66" y="133" xml:space="preserve" opacity="0">  \ V  V /  __/ | (_| (_) | | | | | |  __/ | || (_) | | |_| | | |  __/<set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
-<text x="66" y="148" xml:space="preserve" opacity="0">   \_/\_/ \___|_|\___\___/|_| |_| |_|\___|  \__\___/   \__|_| |_|\___|<set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
-<text x="66" y="169" xml:space="preserve" opacity="0"> __  __    _  _____ ____  _____  __<set attributeName="opacity" to="0.95" begin="1.0s" fill="freeze"/></text>
-<text x="66" y="184" xml:space="preserve" opacity="0">|  \/  |  / \|_   _|  _ \|_ _\ \/ /<set attributeName="opacity" to="0.95" begin="1.0s" fill="freeze"/></text>
-<text x="66" y="199" xml:space="preserve" opacity="0">| |\/| | / _ \ | | | |_) || | \  / <set attributeName="opacity" to="0.95" begin="1.0s" fill="freeze"/></text>
-<text x="66" y="214" xml:space="preserve" opacity="0">| |  | |/ ___ \| | |  _ &lt; | | /  \ <set attributeName="opacity" to="0.95" begin="1.0s" fill="freeze"/></text>
-<text x="66" y="229" xml:space="preserve" opacity="0">|_|  |_/_/   \_\_| |_| \_\___/_/\_\<set attributeName="opacity" to="0.95" begin="1.0s" fill="freeze"/></text>
+<g filter="url(#glow)">
+<animateTransform attributeName="transform" type="translate" values="770,-198; 770,430" dur="8.7s" begin="-2.4s" repeatCount="indefinite"/>
+<text x="0" y="0" fill="#005020" opacity="0.20">ｭ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.00s" repeatCount="indefinite"/></text>
+<text x="0" y="18" fill="#005f20" opacity="0.26">%<animate attributeName="opacity" values="0.26;0.11;0.26" dur="0.91s" repeatCount="indefinite"/></text>
+<text x="0" y="36" fill="#006f20" opacity="0.33">オ<animate attributeName="opacity" values="0.33;0.13;0.33" dur="0.42s" repeatCount="indefinite"/></text>
+<text x="0" y="54" fill="#007f20" opacity="0.39">ソ<animate attributeName="opacity" values="0.39;0.16;0.39" dur="0.49s" repeatCount="indefinite"/></text>
+<text x="0" y="72" fill="#008f20" opacity="0.45">ｬ<animate attributeName="opacity" values="0.45;0.18;0.45" dur="1.17s" repeatCount="indefinite"/></text>
+<text x="0" y="90" fill="#009f20" opacity="0.52">ｰ<animate attributeName="opacity" values="0.52;0.21;0.52" dur="0.71s" repeatCount="indefinite"/></text>
+<text x="0" y="108" fill="#00af20" opacity="0.58">チ<animate attributeName="opacity" values="0.58;0.23;0.58" dur="1.13s" repeatCount="indefinite"/></text>
+<text x="0" y="126" fill="#00bf20" opacity="0.65">@<animate attributeName="opacity" values="0.65;0.26;0.65" dur="0.79s" repeatCount="indefinite"/></text>
+<text x="0" y="144" fill="#00cf20" opacity="0.71">8<animate attributeName="opacity" values="0.71;0.28;0.71" dur="0.55s" repeatCount="indefinite"/></text>
+<text x="0" y="162" fill="#00df20" opacity="0.77">%<animate attributeName="opacity" values="0.77;0.31;0.77" dur="1.14s" repeatCount="indefinite"/></text>
+<text x="0" y="180" fill="#ccffcc" opacity="0.84">ト<animate attributeName="opacity" values="0.84;0.33;0.84" dur="1.06s" repeatCount="indefinite"/></text>
+</g>
+<rect x="30" y="50" width="720" height="330" fill="#000000" opacity="0.72" rx="8"/>
+<rect x="30" y="50" width="720" height="330" fill="none" stroke="#00ff41" opacity="0.35" rx="8"/>
+<g filter="url(#tglow)" fill="#00ff41" font-size="10.5" font-weight="bold">
+<text x="52" y="82" xml:space="preserve" opacity="0">__      _____ _    ___ ___  __  __ ___   _____ ___    _____ _  _ ___ <set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
+<text x="52" y="96" xml:space="preserve" opacity="0">\ \    / / __| |  / __/ _ \|  \/  | __| |_   _/ _ \  |_   _| || | __|<set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
+<text x="52" y="110" xml:space="preserve" opacity="0"> \ \/\/ /| _|| |_| (_| (_) | |\/| | _|    | || (_) |   | | | __ | _| <set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
+<text x="52" y="124" xml:space="preserve" opacity="0">  \_/\_/ |___|____\___\___/|_|  |_|___|   |_| \___/    |_| |_||_|___|<set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
+<text x="52" y="138" xml:space="preserve" opacity="0">                                                                     <set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
+<text x="52" y="152" xml:space="preserve" opacity="0"> __  __   _ _____ ___ _____  __<set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
+<text x="52" y="166" xml:space="preserve" opacity="0">|  \/  | /_\_   _| _ \_ _\ \/ /<set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
+<text x="52" y="180" xml:space="preserve" opacity="0">| |\/| |/ _ \| | |   /| | &gt;  &lt; <set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
+<text x="52" y="194" xml:space="preserve" opacity="0">|_|  |_/_/ \_\_| |_|_\___/_/\_\<set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
+<text x="52" y="208" xml:space="preserve" opacity="0">                               <set attributeName="opacity" to="0.95" begin="0.4s" fill="freeze"/></text>
 </g>
 <g font-size="14" filter="url(#glow)">
-<text x="66" y="262" fill="#00ff41" opacity="0">&gt; Wake up, Neo...<set attributeName="opacity" to="1" begin="2.0s" fill="freeze"/></text>
-<text x="66" y="284" fill="#00ff41" opacity="0">&gt; The Matrix has you...<set attributeName="opacity" to="1" begin="3.2s" fill="freeze"/></text>
-<text x="66" y="306" fill="#88ff88" opacity="0">&gt; Follow the white rabbit.<set attributeName="opacity" to="1" begin="4.4s" fill="freeze"/></text>
-<text x="66" y="328" fill="#ffb000" opacity="0">root@zion:~# accessing mainframe... [OK]<set attributeName="opacity" to="1" begin="5.6s" fill="freeze"/></text>
-<text x="66" y="350" fill="#00ff41" font-size="15" opacity="0">root@zion:~# <tspan>_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan><set attributeName="opacity" to="1" begin="6.0s" fill="freeze"/></text>
+<text x="52" y="242" fill="#00ff41" opacity="0">&gt; Wake up, Neo...<set attributeName="opacity" to="1" begin="1.6s" fill="freeze"/></text>
+<text x="52" y="266" fill="#00ff41" opacity="0">&gt; The Matrix has you...<set attributeName="opacity" to="1" begin="2.8s" fill="freeze"/></text>
+<text x="52" y="290" fill="#88ff88" opacity="0">&gt; Follow the white rabbit.<set attributeName="opacity" to="1" begin="4.0s" fill="freeze"/></text>
+<text x="52" y="314" fill="#ffb000" opacity="0">root@zion:~# accessing mainframe... [OK]<set attributeName="opacity" to="1" begin="5.2s" fill="freeze"/></text>
+<text x="52" y="338" fill="#00ff41" font-size="15" opacity="0">root@zion:~# <tspan>_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan><set attributeName="opacity" to="1" begin="5.6s" fill="freeze"/></text>
 </g>
-<rect width="760" height="460" fill="#00ff41" opacity="0.02"><animate attributeName="opacity" values="0.02;0.05;0.02" dur="0.12s" repeatCount="indefinite"/></rect>
+<rect width="780" height="430" fill="#00ff41" opacity="0.02"><animate attributeName="opacity" values="0.02;0.05;0.02" dur="0.12s" repeatCount="indefinite"/></rect>
 </svg>
