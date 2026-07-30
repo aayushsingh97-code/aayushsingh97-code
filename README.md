@@ -3,7 +3,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/aayushsingh97-code/aayushsingh97-code/main/matrix.svg" width="780">
-<img src="https://raw.githubusercontent.com/aayushsingh97-code/aayushsingh97-code/main/poster.svg" width="780">
+<img src="https://raw.githubusercontent.com/aayushsingh97-code/aayushsingh97-code/main/Poster.png" width="780">
 ### 🎨 Gallery
 
 
